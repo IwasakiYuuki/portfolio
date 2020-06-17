@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://IwasakiYuuki.github.io/portfolio/</loc>
-  </url>
-  
-  <url>
     <loc>https://IwasakiYuuki.github.io/portfolio/authors/</loc>
   </url>
   
   <url>
     <loc>https://IwasakiYuuki.github.io/portfolio/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://IwasakiYuuki.github.io/portfolio/</loc>
   </url>
   
   <url>
