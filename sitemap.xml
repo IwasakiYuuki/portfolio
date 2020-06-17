@@ -15,10 +15,6 @@
   </url>
   
   <url>
-    <loc>https://IwasakiYuuki.github.io/portfolio/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
     <loc>https://IwasakiYuuki.github.io/portfolio/post/</loc>
   </url>
   
@@ -36,6 +32,10 @@
   
   <url>
     <loc>https://IwasakiYuuki.github.io/portfolio/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://IwasakiYuuki.github.io/portfolio/author/%E5%B2%A9%E5%B4%8E%E6%82%A0%E7%B4%80yuuki-iwasaki/</loc>
   </url>
   
 </urlset>
