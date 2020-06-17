@@ -5,12 +5,21 @@
     <link>https://IwasakiYuuki.github.io/portfolio/</link>
       <atom:link href="https://IwasakiYuuki.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <description>Portfolio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 19:41:48 +0900</lastBuildDate>
     <image>
       <url>https://IwasakiYuuki.github.io/portfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Portfolio</title>
       <link>https://IwasakiYuuki.github.io/portfolio/</link>
     </image>
+    
+    <item>
+      <title>研究紹介</title>
+      <link>https://IwasakiYuuki.github.io/portfolio/post/research-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:41:48 +0900</pubDate>
+      <guid>https://IwasakiYuuki.github.io/portfolio/post/research-1/</guid>
+      <description>&lt;h1 id=&#34;研究紹介&#34;&gt;研究紹介&lt;/h1&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
