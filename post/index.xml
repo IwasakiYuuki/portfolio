@@ -13,11 +13,33 @@
     </image>
     
     <item>
-      <title>研究紹介</title>
+      <title>研究分野紹介</title>
       <link>https://IwasakiYuuki.github.io/portfolio/post/research-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:41:48 +0900</pubDate>
       <guid>https://IwasakiYuuki.github.io/portfolio/post/research-1/</guid>
-      <description>&lt;h1 id=&#34;研究紹介&#34;&gt;研究紹介&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;自然言語処理&#34;&gt;自然言語処理&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.pixabay.com/photo/2015/04/03/18/56/font-705667_960_720.jpg&#34; alt=&#34;language&#34;&gt;&lt;/p&gt;
+&lt;p&gt;　自然言語処理とは、&lt;strong&gt;日本語や英語などの自然言語に施す処理&lt;/strong&gt;のことを言います。逆に、自然言語ではない言語とはプログラミング言語などです。自然言語とそうでない言語と違いは、言語の曖昧性にあります。例えば、下の画像では同じ文章ですが５通りの解釈ができます。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nihongonosensei.net/pic/18111601.jpg&#34; alt=&#34;red-head-cat&#34;&gt;&lt;/p&gt;
+&lt;p&gt;　これは「形態素解析」という自然言語処理の一種です。
+また、これはよく使われる例なのですが、「王様」という単語と「女」という単語を足すと「女王」になるというのは感覚的に理解できると思います。
+このように、自然言語は数字のように単語ごとを足す・引くなどの処理ができます。しかしこれをルールベースの処理で実現するのは困難とされています。
+そこで、自然言語処理には&lt;strong&gt;深層学習&lt;/strong&gt;が用いられることが一般的となっています。&lt;/p&gt;
+&lt;h2 id=&#34;深層学習&#34;&gt;深層学習&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.pixabay.com/photo/2018/06/27/12/55/artificial-neural-network-3501528_960_720.png&#34; alt=&#34;deep-learning&#34;&gt;&lt;/p&gt;
+&lt;p&gt;　深層学習とは機械学習の一種で、主にニューラルネットワークが用いられています。
+ニューラルネットワークについては次の章で詳しく説明します。
+深層学習が主に用いられるのは、先ほど説明した自然言語処理や画像・音声の処理など多岐にわたります。
+ですが本ページは研究分野の紹介なので、自然言語処理に絞って説明します。
+自然言語処理で深層学習が使われている例として有名なのはGoogle翻訳などですね。&lt;/p&gt;
+&lt;h2 id=&#34;ニューラルネットワーク&#34;&gt;ニューラルネットワーク&lt;/h2&gt;
+&lt;p&gt;　深層学習のほとんどの手法に&lt;strong&gt;ニューラルネットワーク&lt;/strong&gt;という構造が含まれています。&lt;br&gt;
+　ニューラルネットワークは生物の脳の神経細胞を模して作られたネットワークです。
+生物の脳の神経細胞は入力に一定以上の電気信号が与えられると、電気信号を出力するという特性を持っています。これを数理モデル化したものがニューラルネットワークを構成する最小単位となります。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://udemy.benesse.co.jp/wp-content/uploads/7364a57e024fe580ea9717de1cc578ec.png&#34; alt=&#34;neuron&#34;&gt;&lt;/p&gt;
+&lt;p&gt;　パーセプトロンと呼ばれるモデルを下に示します。パーセプトロンとは入力から出力まで一直線でつながっているモデルを示します。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://image.itmedia.co.jp/ait/articles/1811/20/news012_network1.jpg&#34; alt=&#34;neural-network&#34;&gt;&lt;/p&gt;
+&lt;p&gt;　このモデルの中の $ v_1, v_2, v_3, v_4 $ はモデルの内部状態を表しています。この内部状態を入力を入れると正しい出力が得られるように少しずつ調整していきます。調整では内部状態の微分を求め、より出力と正解の差が少なくなる方向へ動かしていきます。&lt;/p&gt;
 </description>
     </item>
     
